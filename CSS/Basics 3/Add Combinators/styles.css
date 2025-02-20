@@ -1,0 +1,7 @@
+.outest .outer .inner button {
+    background-color: yellow;
+    border: 1px solid black;
+    font-weight: bolder;
+    border-radius: 10px;
+    text-align: center;
+}
